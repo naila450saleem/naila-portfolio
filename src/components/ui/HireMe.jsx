@@ -23,7 +23,7 @@ const HireMe = () => {
         </div>
 
         <p className="hire-me-description">
-          Skilled in HTML, CSS, JavaScript, ReactJS, and Figma. I focus on building responsive, fast, and user-friendly websites with a strong emphasis on UI/UX design that delivers real value.
+          Skilled in HTML, CSS, JavaScript, ReactJS, and PHP. I focus on building responsive, fast, and user-friendly websites with a strong emphasis on UI/UX design that delivers real value.
 
         </p>
 

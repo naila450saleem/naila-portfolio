@@ -30,8 +30,8 @@ export const experiences = [
   {
     company: "Freelance Projects",
     duration: "Jan 2022 – Dec 2023",
-    role: "Frontend Developer",
-    desc: "Built websites using React and CSS",
+    role: "Web Developer",
+    desc: "Built websites using React and PHP",
     dotColor: "orange",
   },
   {
@@ -44,7 +44,7 @@ export const experiences = [
   {
     company: "Team Project",
     duration: "Aug 2023 – Oct 2023",
-    role: "UI Developer",
+    role: "UI Designer",
     desc: "Built movie listing app using React",
     dotColor: "bg-[#FD853A]",
   },

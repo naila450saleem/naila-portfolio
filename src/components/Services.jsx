@@ -17,7 +17,7 @@ const Services = () => {
           <CustomeText title="Services" className="text-orange" />
         </div>
         <p className="services-desc">
-          I have worked on multiple web projects using HTML, CSS, JavaScript, and ReactJS.
+          I have worked on multiple web projects using HTML, CSS, JavaScript, ReactJS and PHP Laravel.
 Clean design, Responsive, and smooth user experience.
         </p>
       </div>

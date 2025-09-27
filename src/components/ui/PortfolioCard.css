@@ -1,5 +1,35 @@
 /* PortfolioCard.css */
 
+.portfolio-links {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.portfolio-btn-link {
+  padding: 6px 14px;
+  font-size: 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.portfolio-btn-link.live {
+  background: #ff6600;
+  color: #fff;
+}
+
+.portfolio-btn-link.github {
+  background: #24292e; /* GitHub dark gray */
+  color: #fff;
+}
+
+.portfolio-btn-link:hover {
+  opacity: 0.85;
+}
+
+
 .portfolio-card {
   position: relative;
   width: 100%;

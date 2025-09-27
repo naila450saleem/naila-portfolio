@@ -12,12 +12,6 @@
   margin-top: 80px;
 }
 
-/* Fiverr link ke liye font-size chhota */
-.social-icon.fiverr-text {
-  font-size: 8px !important; /* !important use karo taake override ho */
-  font-weight: normal;
-  line-height: 1;
-}
 
 
 /* Top Section */

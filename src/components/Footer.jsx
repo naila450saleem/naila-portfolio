@@ -128,7 +128,7 @@ const Footer = () => {
       <div className="divider" />
 
       <div className="footer-bottom">
-        <p className="copyright">Copyright© 2023 Jayesh. All Rights Reserved.</p>
+        <p className="copyright">Copyright© 2025 Naila. All Rights Reserved.</p>
         <a href="#" className="privacy">Privacy Policy</a>
       </div>
     </footer>

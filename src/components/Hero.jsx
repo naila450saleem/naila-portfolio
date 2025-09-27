@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="quote-box">
         <div className="quote-mark">"</div>
         <p className="quote-text">
-          As a passionate UI/UX, Figma & Web designer, I specialize in creating visually engaging, responsive, and user-friendly websites that help brands stand out."
+          As a passionate UI/UX, Figma & Web developer, I specialize in creating visually engaging, responsive, and user-friendly websites that help brands stand out."
           <br />
           Highly recommended.
         </p>
@@ -28,7 +28,7 @@ const Hero = () => {
           <span className="text-orange">Naila Saleem</span>
           <span className="text-dark">,</span>
         </div>
-        <div className="hero-subtitle">UI/UX & Web Designer</div>
+        <div className="hero-subtitle">UI/UX & Web Developer</div>
 
         <div className="hero-illustration">
           <div className="hero-bg-circle"></div>

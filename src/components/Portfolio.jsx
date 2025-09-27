@@ -13,12 +13,12 @@ import './styles/Portfolio.css'; // 👈 Make sure this CSS file exists
 import website1 from "../assets/website1.png";
 import website2 from "../assets/website2.png";
 import website3 from "../assets/website.png";
-// import website4 from "../assets/website4.png";
-
-// import UX1 from "../assets/UX1.png";
-// import UX2 from "../assets/UX2.png";
-// import UX3 from "../assets/UX3.png";
-// import UX4 from "../assets/UX4.png";
+import website4 from "../assets/land1.png";
+import website5 from "../assets/land.png";
+import website6 from "../assets/online.png";
+import website7 from "../assets/u-r.png";
+import website8 from"../assets/motion.png";
+import website9 from"../assets/pixels-web.png";
 
 
 const buttons = ['All', 'Web Design', 'App Design', 'Branding'];
@@ -32,7 +32,7 @@ const portfolioData = [
   {
     title: "E-Commerce Website",
     image: website3,
-    href: "#",
+    href: " https://naila450saleem.github.io/Ecommerce-website/",
     desc: "A food delivery app to order meals from nearby restaurants.",
   },
   {
@@ -41,36 +41,42 @@ const portfolioData = [
     href: "#",
     desc: "Personal website to showcase work and skills.",
   },
-  //   {
-  //   title: "Portfolio-Website",
-  //   image: website4,
-  //   href: "#",
-  //   desc: "Client Portfolio.",
-  // },
-//   {
-//   title: " UI - 1",
-//   image: UX1,
-//   href: "#",
-//   desc: "A clean and modern mobile app UI design made in Figma.",
-// },
-// {
-//   title: " UI - 2",
-//   image: UX2,
-//   href: "#",
-//   desc: "User-friendly mobile application interface with smooth UX flow.",
-// },
-// {
-//   title: " UI - 3",
-//   image: UX3,
-//   href: "#",
-//   desc: "Creative app interface focusing on usability and design consistency.",
-// },
-// {
-//   title: " UI - 4",
-//   image: UX4,
-//   href: "#",
-//   desc: "Interactive app concept designed in Figma with modern visuals.",
-// },
+    {
+    title: "Landing-Page 1",
+    image: website4,
+    href: "https://naila450saleem.github.io/electric-web/",
+    desc: "Design using Html,CSS, js.",
+  },
+  {
+  title: " Landing-Page 2",
+  image: website5,
+  href: "https://multivertcalls.com/",
+  desc: "Design using Html,CSS, js. "
+},
+{
+  title: "Online Nikkah",
+  image: website6,
+  href: "https://onlinenikkah-client.vercel.app",
+  desc: "This website develop using React + Js.",
+},
+{
+  title: " University-Result",
+  image: website7,
+  href: "https://naila450saleem.github.io/university-result/",
+  desc: "Develop using React + Js.",
+},
+{
+  title: " Motion-website",
+  image: website8,
+  href: "https://naila450saleem.github.io/motion-web/",
+  desc: "Motion-website designed in Html, CSS, js with modern visuals.",
+},
+{
+  title: " Pixels-web",
+  image: website9,
+  href: "https://casnofbet.co.uk/testsite/",
+  desc: "Pixels app concept designed in React+PHp with modern visuals.",
+},
 ];
 
 const Portfolio = () => {
